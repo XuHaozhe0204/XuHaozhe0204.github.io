@@ -1,11 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Haozhe XU’s Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+About Me
+======
+# About Me
+
+Hi! I’m **徐昊哲**, a senior undergraduate student at the **School of Management, Xi’an Jiaotong University**, majoring in **Big Data Management and Application**.
+
+My research lies at the **intersection of AI and business**. I design **novel deep learning algorithms** that enhance both predictive and prescriptive performance, informed by behavioral insights.  
+
+I apply these approaches to **real-world datasets** in collaboration with industry partners — for example:  
+- **Healthcare prediction**  
+- **Multimodal data mining** (video, audio, image, text)  
+- **Platform strategy optimization**
+
+**Methodologically**, I work with  
+- **Large Language Models (LLMs)**  
+- **Machine Learning & Deep Learning**  
+- **Causal Inference**
+
+I am passionate about building **theory-driven, data-informed solutions** that bridge research and practice.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
