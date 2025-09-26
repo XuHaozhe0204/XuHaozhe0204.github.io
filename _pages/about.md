@@ -17,4 +17,9 @@ Currently, I serve as a research assistant to [Prof. Zhenhui (Jack) Jiang](https
 
 I have collaborated with multiple scholars and contributed to several research projects with [Prof. Yidong Chai](https://www.hfut.edu.cn/glxyen/info/1073/1501.htm) (School of Management, Hefei University of Technology), [Prof. Kan Xu](https://kanxu526.github.io/) (W. P. Carey School of Business, Arizona State University), [Prof. Hengyun Li](https://hengyunli.github.io/) (School of Hotel and Tourism Management, The Hong Kong Polytechnic University), [Prof. Yang Liu](https://gr.xjtu.edu.cn/web/0020200607) (School of Management, Xi’an Jiaotong University), [Prof. Shaolong Sun](http://gr.xjtu.edu.cn/web/sunshaolong) (School of Management, Xi’an Jiaotong University), and [Prof. Shouyang Wang](https://people.ucas.ac.cn/~sywang) (School of Economics and Management, University of Chinese Academy of Sciences).
 
-<span style="color:red">I'm looking for PhD positions for 2026 enrollments in Information Systems. If you are interested in connecting or discussing potential collaborations, please feel free to reach out via email!</span>
+<font color="red">
+I'm looking for PhD positions for 2026 enrollments in Information Systems. 
+If you are interested in connecting or discussing potential collaborations, please feel free to reach out via 
+<a href="mailto:xuhaozhe@stu.xjtu.edu.cn" style="color:red;">xuhaozhe@stu.xjtu.edu.cn</a>!
+</font>
+
