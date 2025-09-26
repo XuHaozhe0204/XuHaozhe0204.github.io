@@ -6,11 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-======
+
 # About Me
 
-Hi! I’m **徐昊哲**, a senior undergraduate student at the **School of Management, Xi’an Jiaotong University**, majoring in **Big Data Management and Application**.
+Hi! I’m **徐昊哲**, a senior undergraduate student at the [School of Management, Xi’an Jiaotong University([https://github.com/academicpages/academicpages.github.io](https://som.xjtu.edu.cn/en/)), majoring in **Big Data Management and Application**.
 
 My research lies at the **intersection of AI and business**. I design **novel deep learning algorithms** that enhance both predictive and prescriptive performance, informed by behavioral insights.  
 
