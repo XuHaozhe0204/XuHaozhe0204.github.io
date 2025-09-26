@@ -23,7 +23,7 @@ repository               : "XuHaozhe0204/XuHaozhe0204.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "111.png"
+  avatar           : "500x300.png"
   name             : "Haozhe XU"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
