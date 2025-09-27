@@ -1,5 +1,5 @@
 ---
-title: "Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"
+title: "Personalized Policy Learning for Digital Game Platforms"
 collection: portfolio
 ---
 **Haozhe Xu**, Yidong Chai, Yang Liu. *Manuscript in progress*  
