@@ -3,7 +3,7 @@ title: "Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos
 collection: portfolio
 ---
 
-**Authors:** Haozhe Xu, Yidong Chai, Yang Liu  
+**Authors:** **Haozhe Xu**, Yidong Chai, Yang Liu  
 **Status:** *Manuscript in progress*
 
 🏆 **Awards & Presentations**  
