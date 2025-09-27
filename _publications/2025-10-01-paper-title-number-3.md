@@ -3,7 +3,6 @@ title: "Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos
 collection: publications
 category: manuscripts
 layout: single
-permalink: /publication/2025-trustworthiness
 excerpt: "Received Best Paper Award at SWAIB 2025; presented at CSWIM 2025. Manuscript in progress."
 ---
 Haozhe XU, Yidong Chai, Yang Liu
