@@ -1,6 +1,5 @@
 ---
-title: "Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"
-excerpt: "Haozhe Xu, Yidong Chai, Yang Liu; Received Best Paper Award at SWAIB 2025; presented at CSWIM 2025. Manuscript in progress."
+title: "Evaluating the Reasoning Capabilities of Large Language Models in Chinese-language Contexts"
 collection: portfolio
 ---
 
