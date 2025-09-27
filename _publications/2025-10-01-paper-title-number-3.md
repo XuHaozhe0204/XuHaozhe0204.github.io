@@ -1,6 +1,6 @@
 ---
 title: "Predicting the Perceived Trustworthiness of Healthcare Short-From Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"
-collection: publications
+collection: researchs
 category: manuscripts
 ---
 Haozhe XU, Yidong Chai, Yang Liu  
