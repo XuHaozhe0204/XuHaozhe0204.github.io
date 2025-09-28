@@ -39,7 +39,7 @@ Working Papers & Work in Progress
 *   **Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach**
     *   *Author*: Haozhe Xu, Yidong Chai, Yang Liu
     *   *Status*: Work in Progress, Preliminary version is presented at CSWIM2025 (China Summer Workshop on Information Management 2025) and SWAIB2025 (Summer Workshop on AI for business 2025) and we received the **Best Paper Award** at SWAIB 2025
-*   **Personalized Policy Learning with Graph Model for Digital Game Platforms**
+*   **Personalized Policy Learning for Digital Game Platforms**
     *   *Collaborator*: Kan Xu (ASU)
     *   *Status*: Work in Progress
 
