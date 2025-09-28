@@ -9,16 +9,16 @@
 
 main:
   #- title: "Research"
-  #  url: /publications/
-
-  #- title: "Awards"
-  #  url: /talks/    
+  #  url: /publications/  
 
   #- title: "Teaching"
   #  url: /teaching/    
     
   - title: "Researchs"
     url: /portfolio/
+
+  - title: "Awards"
+    url: /talks/  
         
   #- title: "Blog Posts"
   #  url: /year-archive/
