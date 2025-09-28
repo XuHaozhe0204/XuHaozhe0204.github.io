@@ -15,7 +15,7 @@ Education
     *   Undergraduate, Big Data Management and Application, Sept 2022 - June 2026 (expected)
     *   GPA: 90.45/100
     *   Main Courses: Linear Algebra (100), Data processing with Python (97), Machine Learning (97), Language for Data Analysis (99), Foundations of Big Data Technology (96), Management Information System (94), Data Structure and Algorithm (91), Optimization Theory and Algorithms (92)
-*   **Honors**: 2022-2023 National Scholarship, 2023-2024 National Encouragement Scholarship, Best Paper Award in Summer Workshop on AI for Business 2025, Outstanding Paper Award of the 16th Annual Conference on Decision Sciences
+*   **Honors**: 2022-2023 National Scholarship, Best Paper Award in Summer Workshop on AI for Business 2025, Outstanding Paper Award of the 16th Annual Conference on Decision Sciences
 
 Research Experience
 ======
