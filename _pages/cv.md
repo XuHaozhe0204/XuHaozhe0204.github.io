@@ -21,16 +21,10 @@ Research Experience
 ======
 *   **Research Assistant**, HKU Business School (Advisor: Prof. Jiang (Jack) Zhenhui)
     *   *Evaluation of Image Understanding Capabilities of Large Language Models in Chinese Contexts*
-        *   Defined evaluation dimensions (visual perception, reasoning, aesthetics) for comprehensive image understanding assessment.
-        *   Led novel dataset collection from Gaokao and university exams to ensure minimal LLM training data overlap and create a robust benchmark.
-        *   Managed evaluation process: API integration, volunteer-based human evaluation, and statistical analysis for model comparison.
-        *   Preliminary version has been submitted to EMNLP2025.
     *   *Evaluation of Image Generation Capabilities of Artificial Intelligence Models*
-        *   Led diverse test dataset collection via questionnaires and online sources for broad coverage.
-        *   Strategically selected AI models (text-to-image & multimodal LLMs like DALL-E, GPT-4o) for comprehensive comparison.
-        *   Managed API-driven image generation.
-        *   Orchestrated human pairwise evaluations for comparative model ranking.
-
+    *   *Evaluation of Reasoning Capabilities of Large Language Models in Chinese-language Contexts*
+    *   *Evaluation of Large Language Models' Hallucination Control Ability in Chinese-language Contexts*
+       
 Publications
 ======
 *   **Sun, H., Xu, H., Sun, S., Li, H., & Wang, S.** (2025). Beyond Visual Appeal: Analyzing the Impact of Sensory Experience of Hotel Marketing and Review Images on Sales. *Journal of Travel Research* (ABS4).
