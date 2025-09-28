@@ -1,9 +1,6 @@
 ---
-title: "Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"
-excerpt: "Haozhe Xu, Yidong Chai, Yang Liu; Received Best Paper Award at SWAIB 2025; presented at CSWIM 2025. Manuscript in progress."
+title: "Beyond Visual Appeal: Analyzing the Impact of Sensory Experience of Hotel Marketing and Review Images on Sales"
 collection: portfolio
 ---
-
-
-We are pleased to share that this work received the **Best Paper Award** at the *Summer Workshop on AI for Business 2025 (SWAIB 2025)* and was presented at the *China Summer Workshop on Information Management 2025 (CSWIM 2025)*.  
-Most of the experiments have been completed, and we are currently drafting the manuscript. We plan to submit the paper to a top IS journal (e.g., *MIS Quarterly*,  *Information Systems Research* or *Journal of Management Information Systems*) by the end of this year.
+Haoqiang Sun, **Haozhe Xu**, Shaolong Sun, Hengyun Li, Shouyang Wang. *Journal of Travel Research* 2025 (ABS4)
+The full paper can be accessed [HERE](https://journals.sagepub.com/doi/10.1177/00472875241310818).
