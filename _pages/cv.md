@@ -15,7 +15,7 @@ Education
     *   Undergraduate, Big Data Management and Application, Sept 2022 - June 2026 (expected)
     *   GPA: 90.45/100
     *   Main Courses: Linear Algebra (100), Data processing with Python (97), Machine Learning (97), Language for Data Analysis (99), Foundations of Big Data Technology (96), Management Information System (94), Data Structure and Algorithm (91), Optimization Theory and Algorithms (92)
-*   **Honors**: 2022-2023 National Scholarship, Best Paper Award in Summer Workshop on AI for Business 2025, Outstanding Paper Award of the 16th Annual Conference on Decision Sciences
+
 
 Research Experience
 ======
@@ -36,17 +36,12 @@ Publications
 
 Working Papers & Work in Progress
 ======
-*   **Assessing the Perceived Trustworthiness of Short-form Videos: A Novel Graph Neural Network based Multimodal Learning Approach**
-    *   *Author*: Haozhe Xu, Yidong Chai (HFUT), Yang Liu (XJTU)
-    *   *Status*: Work in Progress, Preliminary version is accepted by CSWIM2025 (China Summer Workshop on Information Management 2025) and SWAIB2025 (Summer Workshop on AI for business 2025)
-    *   *Target Journal*: Journal of Management Information Systems (JMIS)
+*   **Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach**
+    *   *Author*: Haozhe Xu, Yidong Chai, Yang Liu
+    *   *Status*: Work in Progress, Preliminary version is presented at CSWIM2025 (China Summer Workshop on Information Management 2025) and SWAIB2025 (Summer Workshop on AI for business 2025) and we received the **Best Paper Award** at SWAIB 2025
 *   **Personalized Policy Learning with Graph Model for Digital Game Platforms**
     *   *Collaborator*: Kan Xu (ASU)
     *   *Status*: Work in Progress
-*   **Investigating the Appeal of Tourism Vlogs: What Makes Short Videos Engaging?**
-    *   *Author*: Haoqiang Sun, Haozhe Xu (Co-first author), Shaolong Sun (XJTU), Hengyun Li (Polyu)
-    *   *Status*: Working paper
-    *   *Target Journal*: Decision Support Systems
 
 Patent & Software Copyright
 ======
@@ -54,6 +49,9 @@ Patent & Software Copyright
 
 Awards
 ======
+*   2022-2023 National Scholarship
+*   Best Paper Award in Summer Workshop on AI for Business 2025
+*   Outstanding Paper Award of the 16th Annual Conference on Decision Sciences
 *   2024 Interdisciplinary Contest in Modeling (ICM) Meritorious Winner
 *   2023 China Undergraduate Mathematical Contest in Modeling (CUMCM) Second Prize
 *   2022 National College Students Mathematics Competition Third Prize
