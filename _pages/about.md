@@ -36,7 +36,9 @@ I have collaborated with multiple scholars and contributed to several research p
 - **April 2025** – Our paper *"Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"* was accepted by the **Summer Workshop on AI for Business (SWAIB 2025)**.  
 - **April 2025** – Our paper *"Unlocking the Power of Multimodal Online Reviews: A Multisensory Perspective"* was accepted by **Tourism Management**.  
 - **Jan 2025** – Our paper *"Beyond Visual Appeal: Analyzing the Impact of Sensory Experience of Hotel Marketing and Review Images on Sales"* was accepted by the **Journal of Travel Research (JTR)**.  
-- **Oct 2023** – Awarded the **China National Scholarship (2022–2023)**.  
+- **Oct 2023** – Awarded the **China National Scholarship (2022–2023)**.
+
+- 
 ---
 
 # 📬 Contact  
