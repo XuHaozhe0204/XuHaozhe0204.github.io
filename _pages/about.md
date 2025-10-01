@@ -38,7 +38,7 @@ I have collaborated with multiple scholars and contributed to several research p
 - **Jan 2025** – Our paper *"Beyond Visual Appeal: Analyzing the Impact of Sensory Experience of Hotel Marketing and Review Images on Sales"* was accepted by the **Journal of Travel Research (JTR)**.  
 - **Oct 2023** – Awarded the **China National Scholarship (2022–2023)**.
 
-- 
+
 ---
 
 # 📬 Contact  
