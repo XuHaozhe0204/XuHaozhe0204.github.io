@@ -30,10 +30,12 @@ I have collaborated with multiple scholars and contributed to several research p
 
 # 📰 News  
 
-- **Sep 2025** – Joined [HKU AI Evaluation Lab](https://www.hkubs.hku.hk/aimodelrankings_en/) as a research member.  
-- **Jun 2024** – Started as a Research Assistant under [Prof. Jack Jiang](https://www.hkubs.hku.hk/people/zhenhui-jack-jiang/) at HKU Business School.  
-- **May 2024** – Our paper on multimodal data analysis was presented at [Conference XYZ](). *(example, you can fill in later)*  
-
+- **July 2025** – Our paper *"Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"* received the **Best Paper Award** at SWAIB 2025.  
+- **May 2025** – Our paper *"Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"* was accepted by **China Summer Workshop on Information Management (CSWIM 2025)**.  
+- **April 2025** – Our paper *"Predicting the Perceived Trustworthiness of Healthcare Short-Form Videos: A Deep Neural Point Process–enhanced Multimodal Learning Approach"* was accepted by the **Summer Workshop on AI for Business (SWAIB 2025)**.  
+- **April 2025** – Our paper *"Unlocking the Power of Multimodal Online Reviews: A Multisensory Perspective"* was accepted by **Tourism Management**.  
+- **Jan 2025** – Our paper *"Beyond Visual Appeal: Analyzing the Impact of Sensory Experience of Hotel Marketing and Review Images on Sales"* was accepted by the **Journal of Travel Research (JTR)**.  
+- **Oct 2023** – Awarded the **China National Scholarship (2022–2023)**.  
 ---
 
 # 📬 Contact  
