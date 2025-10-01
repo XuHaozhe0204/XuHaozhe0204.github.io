@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Haozhe XU ’s Homepage!"
+title: "Welcome to Haozhe’s Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,10 +12,8 @@ redirect_from:
 
 Hi! I’m Haozhe XU (徐昊哲), a senior undergraduate student at the [School of Management, Xi’an Jiaotong University](https://som.xjtu.edu.cn/en/), majoring in Big Data Management and Application.  
 
-My research lies at the intersection of AI and business. I design novel deep learning algorithms that enhance both predictive and prescriptive performance, informed by behavioral insights. I apply these approaches to real-world datasets in collaboration with industry partners, for example: healthcare prediction, multimodal data mining (video, audio, image, text), and platform strategy optimization. Methodologically, I work with large language models (LLMs), machine learning & deep learning, and causal inference. I am passionate about building theory-driven, data-informed solutions that bridge research and practice.  
+My recent research centers on **computational design science in information systems**, where I design novel deep learning algorithms that enhance both predictive and prescriptive performance, informed by behavioral insights. I apply these approaches to real-world datasets in collaboration with industry partners, with applications spanning **healthcare analytics, platform optimization, and video prediction**.  Previously, I conducted research on **multimodal data analysis**, exploring how to extract meaningful variables from video, audio, text, and images through **natural language processing (NLP), computer vision (CV), and video/audio analytics**. These projects aimed to uncover how multimodal cues shape consumer perception, engagement, and decision-making behavior.  Currently, I serve as a research assistant to [Prof. Zhenhui (Jack) Jiang](https://www.hkubs.hku.hk/people/zhenhui-jack-jiang/) at the [Faculty of Business and Economics, The University of Hong Kong](https://www.hkubs.hku.hk/) (2024.06–Now). I am also a member of the [HKU Business School AI Evaluation Lab](https://www.hkubs.hku.hk/aimodelrankings_en/), where we deliver transparent, unbiased, and comprehensive **AI evaluation**.
 
-Currently, I serve as a research assistant to [Prof. Zhenhui (Jack) Jiang](https://www.hkubs.hku.hk/people/zhenhui-jack-jiang/) at the [Faculty of Business and Economics, The University of Hong Kong](https://www.hkubs.hku.hk/) (2024.06–Now). I am also a member of the [HKU Business School
-AI Evaluation Lab](https://www.hkubs.hku.hk/aimodelrankings_en/), where we deliver transparent, unbiased, and comprehensive AI evaluation. I spent one semester (2025.01–2025.06) as an exchange student at the [City University of Hong Kong, College of Business (Information Systems)](https://www.cb.cityu.edu.hk/IS/), where I had valuable discussions with [Prof. Chong Wang](https://www.cb.cityu.edu.hk/profile/chonwang) about my future research plan and PhD applications plan.  
 
 I have collaborated with multiple scholars and contributed to several research projects with [Prof. Zhenhui (Jack) Jiang](https://www.hkubs.hku.hk/people/zhenhui-jack-jiang/) (HKU Business School), [Prof. Yidong Chai](https://www.hfut.edu.cn/glxyen/info/1073/1501.htm) (School of Management, Hefei University of Technology), [Prof. Kan Xu](https://kanxu526.github.io/) (W. P. Carey School of Business, Arizona State University), [Prof. Yang Liu](https://gr.xjtu.edu.cn/web/0020200607) (School of Management, Xi’an Jiaotong University), [Prof. Shaolong Sun](http://gr.xjtu.edu.cn/web/sunshaolong) (School of Management, Xi’an Jiaotong University), [Prof. Hengyun Li](https://hengyunli.github.io/) (School of Hotel and Tourism Management, The Hong Kong Polytechnic University), and [Prof. Shouyang Wang](https://people.ucas.ac.cn/~sywang) (School of Economics and Management, University of Chinese Academy of Sciences).
 
