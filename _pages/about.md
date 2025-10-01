@@ -45,7 +45,7 @@ I have collaborated with multiple scholars and contributed to several research p
 # 📬 Contact  
 
 <font color="red">
-I'm looking for **PhD positions for 2026 enrollments in Information Systems**.  
+I'm looking for PhD positions for 2026 enrollments in Information Systems.  
 If you are interested in connecting or discussing potential collaborations, please reach out via  
 <a href="mailto:xuhaozhe@stu.xjtu.edu.cn" style="color:red;">xuhaozhe@stu.xjtu.edu.cn</a>!
 </font>
